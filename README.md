@@ -12,7 +12,7 @@
 I’m a data-focused professional with over **3 years of experience** in the **U.S. health insurance domain**, specializing in **data analytics, validation, and business intelligence**.  
 Currently pursuing an **MBA in Business Analytics**, I’m passionate about transforming complex datasets into **strategic insights that drive business growth**.  
 
-I aspire to evolve into a **Business Analyst and future Product Manager**, where I can bridge the gap between **data, design, and decision-making**.
+I aspire to evolve into a **Business Analyst and future Product Manager**, bridging **data, design, and decision-making** to deliver measurable business impact.
 
 ---
 
@@ -57,7 +57,7 @@ I aspire to evolve into a **Business Analyst and future Product Manager**, where
   <a href="https://linkedin.com/in/akshay-b-krishna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="akshaybkrishna@gmail.com">
+  <a href="mailto:akshaybkrishna@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AkshayBKrishna" target="_blank">
