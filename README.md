@@ -54,7 +54,7 @@ I aspire to evolve into a **Business Analyst and future Product Manager**, where
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/akshaybkrishna" target="_blank">
+  <a href="www.linkedin.com/in/akshay-b-krishna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
